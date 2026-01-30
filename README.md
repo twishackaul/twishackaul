@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I am a Software Engineer focused on bridging the gap between enterprise data and Generative AI. Over the last 8 months, I’ve specialized in building secure, production-grade systems that move beyond simple chat to provide actionable, data-driven insights.<br><br>🔭 Current Project: Architecting a multi-tenant RAG platform that transforms natural language into optimized SQL, featuring a custom PII Anonymization pipeline and RBAC for enterprise-grade security.<br><br>🌱 Currently Learning: Mastering Agentic AI orchestration and the Model Context Protocol (MCP) to build autonomous systems that can reason and execute complex tasks.<br><br>👯 Looking to Collaborate on: Open-source projects focused on Agentic workflows or secure LLM tool integration.<br><br>💬 Ask Me About: Python, LangChain, Text-to-SQL optimization, and why data privacy (anonymization) is the most important part of any AI stack.<br><br>⚡ Fun Fact: I’ve journeyed from crafting pixels in Frontend to building worlds in VR, but I finally found my home building the "brains" that drive them—Agentic AI.
 
 
@@ -12,7 +12,7 @@ I am a Software Engineer focused on bridging the gap between enterprise data and
 ![](https://nirzak-streak-stats.vercel.app/?user=twishackaul&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=twishackaul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
