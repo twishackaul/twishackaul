@@ -1,7 +1,7 @@
 <h1 align="center">I'm Twisha Kaul</h1>
 
 
-<p>Software Engineer at Orange Business • Deep Learning & Computer Vision Enthusiast • Exploring Generative & Agentic AI</p> 
+<p align="center" style="bold">Software Engineer at Orange Business • Deep Learning & Computer Vision Enthusiast • Exploring Generative & Agentic AI</p> 
 
 
 [![](https://visitcount.itsvg.in/api?id=twishackaul&icon=1&color=7)](https://visitcount.itsvg.in)
