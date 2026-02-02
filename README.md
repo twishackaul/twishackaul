@@ -7,7 +7,8 @@
 <p align="center"><b>CSE-AI Graduate from Indira Gandhi Delhi Technical University for Women</b></p>
 
 
-[![](https://visitcount.itsvg.in/api?id=twishackaul&icon=1&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=twishackaul&icon=0&color=0)](https://visitcount.itsvg.in)
+
 I am a Software Engineer focused on bridging the gap between enterprise data and Generative AI. Over the last 8 months, I’ve specialized in building secure, production-grade systems that move beyond simple chat to provide actionable, data-driven insights.<br>
 <br>🔭 Current Project: Architecting a multi-tenant RAG platform that transforms natural language into optimized SQL, featuring a custom PII Anonymization pipeline and RBAC for enterprise-grade security.
 <br>🌱 Currently Learning: Mastering Agentic AI orchestration and the Model Context Protocol (MCP) to build autonomous systems that can reason and execute complex tasks.<br>👯 Looking to Collaborate on: Open-source projects focused on Agentic workflows or secure LLM tool integration.
@@ -18,23 +19,11 @@ I am a Software Engineer focused on bridging the gap between enterprise data and
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/twishakaul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:twishakaul1420@gmail.com) 
 
+### Languages & Tools:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=plastic&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-### Languages and Tools:
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=twishackaul&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
