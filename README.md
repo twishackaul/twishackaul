@@ -19,7 +19,7 @@ I am a Software Engineer focused on bridging the gap between enterprise data and
 
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/twishakaul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:twishakaul1420@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/twishakaul) [![email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:twishakaul1420@gmail.com) 
 
 
 ### Languages & Tools:
