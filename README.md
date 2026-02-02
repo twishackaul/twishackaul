@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=twishackaul&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=twishackaul&label=PROFILE+VIEWS&color=0e75b6&style=plastic" alt="Visitor Count" />
 </p>
 
 I am a Software Engineer focused on bridging the gap between enterprise data and Generative AI. Over the last 8 months, I’ve specialized in building secure, production-grade systems that move beyond simple chat to provide actionable, data-driven insights.<br>
