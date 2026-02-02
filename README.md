@@ -4,7 +4,7 @@
 <p align="center"><b>Software Engineer at Orange Business • Deep Learning & Computer Vision Enthusiast • Exploring Generative & Agentic AI</b></p> 
 
 
-<p align="center"><b>Graduated from Indira Gandhi Delhi Technical University for Women</b></p>
+<p align="center"><b>CSE-AI Graduate from Indira Gandhi Delhi Technical University for Women</b></p>
 
 
 [![](https://visitcount.itsvg.in/api?id=twishackaul&icon=1&color=7)](https://visitcount.itsvg.in)
