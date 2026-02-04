@@ -12,10 +12,10 @@
 </p>
 
 I am a Software Engineer focused on bridging the gap between enterprise data and Generative AI. Over the last 8 months, I’ve specialized in building secure, production-grade systems that move beyond simple chat to provide actionable, data-driven insights.<br>
-<br>🔭 Current Project: Architecting a multi-tenant RAG platform that transforms natural language into optimized SQL, featuring a custom PII Anonymization pipeline and RBAC for enterprise-grade security.
-<br>🌱 Currently Learning: Mastering Agentic AI orchestration and the Model Context Protocol (MCP) to build autonomous systems that can reason and execute complex tasks.<br>👯 Looking to Collaborate on: Open-source projects focused on Agentic workflows or secure LLM tool integration.
-<br>💬 Ask Me About: How to optimize LLM token costs, architecting RAG for non-technical users, and why I believe PII anonymization is the biggest bottleneck in Enterprise AI today.
-<br>⚡ Fun Fact: I’ve journeyed from crafting pixels in Frontend to building worlds in VR, but I finally found my home building the "brains" that drive them—Agentic AI.
+<br>🔭 <b>Current Project:</b> Architecting a multi-tenant RAG platform that transforms natural language into optimized SQL, featuring a custom PII Anonymization pipeline and RBAC for enterprise-grade security.
+<br>🌱 <b>Currently Learning:</b> Mastering Agentic AI orchestration and the Model Context Protocol (MCP) to build autonomous systems that can reason and execute complex tasks.<br>👯 Looking to Collaborate on: Open-source projects focused on Agentic workflows or secure LLM tool integration.
+<br>💬 <b>Ask Me About:</b> How to optimize LLM token costs, architecting RAG for non-technical users, and why I believe PII anonymization is the biggest bottleneck in Enterprise AI today.
+<br>⚡ <b>Fun Fact:</b> I’ve journeyed from crafting pixels in Frontend to building worlds in VR, but I finally found my home building the "brains" that drive them—Agentic AI.
 
 
 ### Connect with me:
